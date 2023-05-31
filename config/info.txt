@@ -1,0 +1,7 @@
+Make a file called dev.env in this folder, with:
+
+
+ MONGODB_URI = Your mongoDB connection string
+ JWT_SECRET = Your jwt secret
+
+
